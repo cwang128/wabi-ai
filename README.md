@@ -7,6 +7,11 @@ Once the model is trained, it is used to predict the depression levels of indivi
 
 Overall, this project demonstrates the effectiveness of CNNs in accurately detecting depression in individuals based on their speech patterns. The use of the DAIC-WOZ dataset provides a large and diverse set of audio recordings that can be used to train and test the model, and the user interface makes it easy for individuals to receive an initial assessment of their depression level.
 
+**DISCLAIMER**
+
+I do not have permission to share the dataset, though it can be acquired through... https://dcapswoz.ict.usc.edu/
+
+
 
 If there are more bugs or troubles that persist, ChatGPT and Blackbox AI is a great source to troubleshoot your errors! 
 
